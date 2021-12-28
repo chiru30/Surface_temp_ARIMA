@@ -8,4 +8,4 @@ Tech- ARIMA model for forecasting
 - [x] Null hypothesis on stationary dataset
 - [x] Statistical measures : P value
 - [x] Linear regression 
-- [ ] ARIMA model implementation
+- [x] ARIMA model implementation
