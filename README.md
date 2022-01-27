@@ -9,4 +9,4 @@ Tech- ARIMA model for forecasting
 - [x] Statistical measures : P value
 - [x] Linear regression 
 - [x] ARIMA model implementation
-- [x] Forecasting
+- [] Forecasting
